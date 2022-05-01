@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Jas 
 
-<!--
-**saroyaj/saroyaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect with me:
 
-Here are some ideas to get you started:
+[![website](./img/youtube-light.svg)](https://www.youtube.com/user/jasmeetsinghsaroya#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/user/jasmeetsinghsaroya#gh-dark-mode-only)
+&nbsp;&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/jasmeet-singh-saroya/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jasmeet-singh-saroya/#gh-dark-mode-only)
+&nbsp;&nbsp;
+
+
