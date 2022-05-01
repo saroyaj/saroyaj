@@ -8,4 +8,8 @@
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/jasmeet-singh-saroya/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
+---
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
