@@ -10,6 +10,14 @@
 
 ---
 
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 
